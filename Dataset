@@ -1,1 +1,16 @@
-bostan dataset is used for prediction.
+# bostan dataset is used for prediction.
+
+# Features:
+CRIM: Crime rate per capita
+ZN: Proportion of residential land zoned for large plots
+INDUS: Proportion of non-retail business acres per town
+CHAS: Charles River dummy variable (1 if tract bounds river, 0 otherwise)
+NOX: Nitrogen oxide concentration (parts per 10 million)
+RM: Average number of rooms per dwelling
+AGE: Proportion of owner-occupied units built before 1940
+DIS: Weighted distance to employment centers
+RAD: Index of accessibility to radial highways
+TAX: Property tax rate
+PTRATIO: Pupil-teacher ratio
+B: Proportion of residents of African American descent
+LSTAT: Percentage of lower status population
