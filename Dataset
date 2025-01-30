@@ -1,5 +1,8 @@
 # bostan dataset is used for prediction.
 
+The Boston Housing Dataset is a classic dataset that contains information about housing in the Boston area. It has 506 instances (rows) and 13 feature columns. 
+The target variable is the median value of owner-occupied homes (MEDV).
+
 # Features:
 CRIM: Crime rate per capita
 ZN: Proportion of residential land zoned for large plots
